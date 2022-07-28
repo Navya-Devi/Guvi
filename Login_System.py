@@ -1,6 +1,6 @@
 import re
 
-print("Welcome...")
+print("Welcome to Guvi")
 welcome = input("Do you have an acount? y/n: ")
 if welcome == "n":
     while True:
